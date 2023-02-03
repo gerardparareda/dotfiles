@@ -1,24 +1,22 @@
 # dotfiles
-My Ubuntu i3wm gaps config
+My Ubuntu sway config
 
 ## Usual Installation
-### i3wm
-
-### i3-gaps
-From https://gist.github.com/chewwt/cbdb71b92b9a45e3ac9314e64c58cbf4#gistcomment-3665641
-```
-sudo add-apt-repository -y ppa:regolith-linux/stable
-sudo apt install i3-gaps
-```
+### Sway
+Either with https://github.com/Ubuntu-Sway or https://llandy3d.github.io/sway-on-ubuntu/
 
 ## Fixes
-### HP Laptop (Ubuntu 20 LTS)
+### HP Laptop 
 Specs:
 
 #### Graphics card problems
+FIX PCIe log messages: https://gist.github.com/gerardparareda/c504db3544cd4bd4bd794e2d6c288090
 
 #### Multimedia function keys
+TODO
 
-### Office computer (Ubuntu 18 LTS)
+### Office computer
+TODO
 
-### Home rig (Ubuntu 20 LTS)
+### Home rig 
+TODO
